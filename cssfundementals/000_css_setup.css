@@ -1,0 +1,11 @@
+body{Hello World, I'm CSS!
+	background-color: red;
+}
+
+	<title></title>
+	<link rel= "stylesheet" type="text/css" href="001_class.css">
+	</head>
+	<body>
+		<div class="css-classes">
+		<p>Make the background of this div light gray</p>
+		
